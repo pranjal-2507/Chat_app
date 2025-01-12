@@ -4,7 +4,6 @@ import { ChakraProvider } from '@chakra-ui/react';
 import { extendTheme } from '@chakra-ui/react'; 
 import App from './App';
 
-// Define the theme
 const theme = extendTheme({
   colors: {
     primary: {
